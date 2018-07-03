@@ -40,7 +40,7 @@ If the word algorithm makes you shake in your boots a bit...Check this one out. 
 
 ---
 
-### 3 : [CodeCademy: Javascript][khan]
+### 3 : [CodeCademy: Javascript][code-cademy]
 
 ---
 
