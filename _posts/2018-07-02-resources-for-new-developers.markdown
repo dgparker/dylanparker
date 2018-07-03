@@ -89,7 +89,7 @@ If you have any questions feel free to reach out to me on [Slack at The Code Cav
 [dev-roadmap]:https://github.com/kamranahmedse/developer-roadmap
 [fcc]:https://www.freecodecamp.org/
 [khan]:https://www.khanacademy.org/computing/computer-science/algorithms
-[code-academy]:https://www.codecademy.com/catalog/language/javascript
+[code-cademy]:https://www.codecademy.com/catalog/language/javascript
 [js-thirty]:https://javascript30.com/
 [syntax]:https://syntax.fm/
 [css-grid]:https://cssgrid.io/
